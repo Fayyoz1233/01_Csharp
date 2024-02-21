@@ -8,3 +8,4 @@ if (var_num1 == var_num2 * var_num2)
     Console.Write("Yes");
 else    
     Console.Write("No");
+    
